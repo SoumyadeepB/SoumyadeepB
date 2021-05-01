@@ -1,7 +1,7 @@
-### Hi there <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px">, this is Soumyadeep! 
+<h2 align="center"> Hi there,  this is Soumyadeep! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
 
-
-<p align="center">
+<h5 align="center"> Thanks for joining me on this brief journey through my coding profile. </h5>
+<p align="center">  
   <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/neon.gif"  width="45%" height="20%">
 </p>
 
