@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px">, this is Soumyadeep! 
 
 
-<div style="width:40%;height:0;padding-bottom:100%;position:absolute;align:center"><img src="https://media3.giphy.com/media/3o85xzkvl1siB2rHSo/giphy.gif?cid=ecf05e47la8z8xxybvoaswrcvsnzwy3rxpq02p3b9e8lumza&rid=giphy.gif&ct=g"  width="45%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed"></div>
+<div style="text-align:center"><img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/code.gif"  width="100%" height="20%" style="position:relative"></div>
 
 - 🔭 I’m currently studying Computer Science at the University of Stuttgart.
 - 🌱 I’m specializing in Autonomous Systems.
