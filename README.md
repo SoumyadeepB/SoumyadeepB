@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px">
 
 <!--
 **SoumyadeepB/SoumyadeepB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
