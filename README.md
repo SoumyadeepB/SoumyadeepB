@@ -2,7 +2,7 @@
 
 <h5 align="center"> Join me on this brief journey through my coding profile... </h5>
 <p align="center">  
-  <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/neon.gif"  width="45%" height="20%">
+  <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/code.gif"  width="45%" height="20%">
 </p>
 
 - 🔭 I am a Masters student in Computer Science at the University of Stuttgart.
