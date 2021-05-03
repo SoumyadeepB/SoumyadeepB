@@ -5,8 +5,8 @@
   <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/neon.gif"  width="45%" height="20%">
 </p>
 
-- 🔭 I’m currently studying Computer Science at the University of Stuttgart.
-- 🌱 I’m specializing in Autonomous Systems.
+- 🔭 I am a Masters student in Computer Science at the University of Stuttgart.
+- 🌱 I’m specializing in Autonomous Systems, focusing on Machine Learning, Deep Learning, Computer Vision, NLP, etc.
 - 👯 I’m looking to collaborate on Deep Learning Projects/Kaggle Competitions.
 - 💬 Ask me about Machine Learning/Deep Learning.
 - 📫 How to reach me: LinkedIn/Email
