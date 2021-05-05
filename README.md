@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/soumyadeep_bh/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:soumyadeep.bh1994@gmail.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=soumyadeepb&count_private=true&show_icons=true&include_all_commits=true&?theme=gotham)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=soumyadeepb&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
 
 
 ![Profile views](https://gpvc.arturio.dev/soumyadeepb)  <img src="https://img.shields.io/github/followers/soumyadeepb?label=Follow" style=" float:left, margin-right:10px" />
