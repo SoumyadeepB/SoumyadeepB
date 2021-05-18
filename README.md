@@ -8,7 +8,6 @@
 - 🔭 I am a Masters student in Computer Science at the University of Stuttgart.
 - 🌱 I’m specializing in Autonomous Systems, focusing on Machine Learning, Deep Learning, Computer Vision, NLP, etc.
 - 👯 I’m looking to collaborate on Deep Learning Projects/Kaggle Competitions.
-- 💬 Ask me about Machine Learning/Deep Learning.
 - 📫 How to reach me: LinkedIn/Email
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/soumyadeepb)
@@ -18,16 +17,15 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=soumyadeepb&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
 
+Some of my relevant project/course works can be found in the following repositories:
+- [Machine Learning](https://github.com/SoumyadeepB/Machine-Learning)
+- [Deep Learning](https://github.com/SoumyadeepB/DeepLearning)
+- [Reinforcement Learning](https://github.com/SoumyadeepB/Reinforcement-Learning)
+
+Live project demonstrations:
+- Image classification in the Browser (TensorflowJS,MobileNet,ReactJS) [[Application]](https://soumyadeepb.github.io/image-classifier/) || [[Repository]](https://github.com/SoumyadeepB/image-classifier/tree/master)
+- Containerizing a Document Similarity application (Flask,Heroku,Docker) [[Application]](https://docapp-sbh.herokuapp.com/) || [[Repository]](https://github.com/SoumyadeepB/document-similarity-heroku)
+- Covid Live Tracker App (ReactJS) [[Application]](https://soumyadeepb.github.io/covid-tracker/) || [[Repository]](https://github.com/SoumyadeepB/covid-tracker)
 
 ![Profile views](https://gpvc.arturio.dev/soumyadeepb)  <img src="https://img.shields.io/github/followers/soumyadeepb?label=Follow" style=" float:left, margin-right:10px" />
-<!--
-**SoumyadeepB/SoumyadeepB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Machine Learning/Deep Learning.
-- 📫 How to reach me: LinkedIn/Email
-
--->
