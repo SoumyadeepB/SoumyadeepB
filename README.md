@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there,  this is Soumyadeep! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hi there,  this is <a href="https://soumyadeepb.github.io/home/">Soumyadeep</a>! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
 
 <h4 align="center"> Glad to have you on this brief journey through my coding profile... </h4>
 <p align="center">  
