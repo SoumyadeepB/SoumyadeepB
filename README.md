@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there,  this is Soumyadeep! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
 
-<h4 align="center"> Join me on this brief journey through my coding profile... </h4>
+<h4 align="center"> Glad to have you on this brief journey through my coding profile... </h4>
 <p align="center">  
   <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/neon.gif"  width="45%" height="20%">
 </p>
