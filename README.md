@@ -2,7 +2,7 @@
 
 <h4 align="center"> Welcome to this brief journey through my coding profile... </h4>
 <p align="center">  
-  <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/neon.gif"  width="45%" height="20%">
+  <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/neon.gif"  width="33%" height="20%">
 </p>
 
 ####
