@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there,  this is <a href="https://soumyadeepb.github.io/home/">Soumyadeep</a>! <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/Hi.gif" width="30px"></h2>
 
-<h4 align="center"> Welcome to this brief journey through my coding profile... </h4>
+<h4 align="center"> Welcome aboard on this journey through my coding profile... </h4>
 <p align="center">  
   <img src="https://github.com/SoumyadeepB/SoumyadeepB/blob/main/images/neon.gif"  width="33%" height="20%">
 </p>
